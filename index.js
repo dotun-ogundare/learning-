@@ -1,1 +1,1 @@
-console.log("hello world another manipulation");
+console.log("hello world another");
